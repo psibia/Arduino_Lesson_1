@@ -1,0 +1,16 @@
+C:\Users\psibi\OneDrive\Рабочий стол\Arduino\Arduino\bin\Debug\Arduino.exe.config
+C:\Users\psibi\OneDrive\Рабочий стол\Arduino\Arduino\bin\Debug\Arduino.exe
+C:\Users\psibi\OneDrive\Рабочий стол\Arduino\Arduino\bin\Debug\Arduino.pdb
+C:\Users\psibi\OneDrive\Рабочий стол\Arduino\Arduino\obj\Debug\Arduino.csproj.AssemblyReference.cache
+C:\Users\psibi\OneDrive\Рабочий стол\Arduino\Arduino\obj\Debug\Arduino.csproj.SuggestedBindingRedirects.cache
+C:\Users\psibi\OneDrive\Рабочий стол\Arduino\Arduino\obj\Debug\MainWindow.g.cs
+C:\Users\psibi\OneDrive\Рабочий стол\Arduino\Arduino\obj\Debug\App.g.cs
+C:\Users\psibi\OneDrive\Рабочий стол\Arduino\Arduino\obj\Debug\Arduino_MarkupCompile.cache
+C:\Users\psibi\OneDrive\Рабочий стол\Arduino\Arduino\obj\Debug\Arduino_MarkupCompile.lref
+C:\Users\psibi\OneDrive\Рабочий стол\Arduino\Arduino\obj\Debug\MainWindow.baml
+C:\Users\psibi\OneDrive\Рабочий стол\Arduino\Arduino\obj\Debug\Arduino.g.resources
+C:\Users\psibi\OneDrive\Рабочий стол\Arduino\Arduino\obj\Debug\Arduino.Properties.Resources.resources
+C:\Users\psibi\OneDrive\Рабочий стол\Arduino\Arduino\obj\Debug\Arduino.csproj.GenerateResource.cache
+C:\Users\psibi\OneDrive\Рабочий стол\Arduino\Arduino\obj\Debug\Arduino.csproj.CoreCompileInputs.cache
+C:\Users\psibi\OneDrive\Рабочий стол\Arduino\Arduino\obj\Debug\Arduino.exe
+C:\Users\psibi\OneDrive\Рабочий стол\Arduino\Arduino\obj\Debug\Arduino.pdb
